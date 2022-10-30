@@ -1,10 +1,12 @@
 {
   "name": "สล็อตแตกหนัก789-k-m",
-  "main": "./lib/สล็อตแตกหนัก789-k-m",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "theme": "สล็อต สล็อตอันดับ1เว็ปตรง 789KM",
+  "version": "0.11.0",
+  "description": "สล็อตเว็ปตรง สล็อตอันดับ 1",
   "keywords": [
-  ],
+  "สล็อตเว็ปตรง , สล็อตอันดับ 1 , เว็บตรงไม่ผ่านเอเย่นต์ ",
+  "สล็อต , 789KM"
+],
   "activationCommands": {
     "atom-workspace": "สล็อตแตกหนัก789-k-m:toggle"
   },
@@ -12,7 +14,5 @@
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
-  }
+   }
 }
