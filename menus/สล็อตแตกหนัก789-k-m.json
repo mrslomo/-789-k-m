@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle สล็อตแตกหนัก789-k-m",
+        "command": "สล็อตแตกหนัก789-k-m:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "สล็อตแตกหนัก789-k-m",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "สล็อตแตกหนัก789-k-m:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

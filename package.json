@@ -1,0 +1,18 @@
+{
+  "name": "สล็อตแตกหนัก789-k-m",
+  "main": "./lib/สล็อตแตกหนัก789-k-m",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "สล็อตแตกหนัก789-k-m:toggle"
+  },
+  "repository": "https://github.com/atom/สล็อตแตกหนัก789-k-m",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
